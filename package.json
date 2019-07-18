@@ -1,0 +1,21 @@
+{
+  "name": "async_await",
+  "version": "1.0.0",
+  "description": "sample project to illustrate async/await in javascript as well as messing with git.",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/craigz/async_await.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/craigz/async_await/issues"
+  },
+  "homepage": "https://github.com/craigz/async_await#readme",
+  "dependencies": {
+    "axios": "^0.19.0"
+  }
+}

@@ -3,4 +3,6 @@
 
 sample project to illustrate async/await in javascript as well as messing with git.
 
+*well, this code is a complete mess. there is a failure to communicate with the api, but beyond failing, i can't tell what exactly is failing. i will need to use postman to see exactly what is happening here. meanwhile, i have successfully used config.js to 'hide' the api key from github which was as useful an exersise as any.*
+
 <7.18.2019> (craigz@gmail.com)
